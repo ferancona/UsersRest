@@ -5,7 +5,7 @@
   "main": "out/index.js",
   "contributors": [
     "PeterCP",
-    "feranconajr"
+    "ferancona"
   ],
   "scripts": {
     "build": "tsc",
