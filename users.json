@@ -1,0 +1,29 @@
+{
+    "0185fdd0-d730-11e7-9286-494238c3e201": {
+        "id": "0185fdd0-d730-11e7-9286-494238c3e201",
+        "username": "admin",
+        "email": "admin@test.com",
+        "password": "yZr/WT5N8dHf0bI2TD+BkA== ASUGYxp1gm6IPW6/RkCVF9qkXv3U2C1s1i9efS061I/osWx8ZfMplHafVtn0sUKrmv2mJ2/7qKrFPVCG8UYjWg==",
+        "token": "0185fdd0-d730-11e7-9286-494238c3e201",
+        "admin": true,
+        "valid": true
+    },
+    "345bb9e0-d733-11e7-94ee-0557c320f405": {
+        "id": "345bb9e0-d733-11e7-94ee-0557c320f405",
+        "username": "user",
+        "email": "user@test.com",
+        "password": "Zv5C+NP9leQ/G5XhB2bXwQ== CCcgcAO2m3m6FZEsOqJmbcxdudaZR/0p8hVYMmHsgjNPj258NtcjJjtTnYT7Q1ohJRE8touds2R2MtJSU2+M3A==",
+        "token": "345bb9e0-d733-11e7-94ee-0557c320f405",
+        "admin": false,
+        "valid": false
+    },
+    "5ba6df20-da49-11e7-9abb-8ba8f084d8b6": {
+        "id": "5ba6df20-da49-11e7-9abb-8ba8f084d8b6",
+        "username": "other",
+        "email": "other@test.com",
+        "password": "2TT+C5sqPqLzBgTE64TW9w== X5J38lt/QP0OID7XOisWxoAwiRL8uVSIuty9m0nz84fL1wWhqtgSrq4L6Agy5Sa8RxB4LZwGSGObIAp30SW18w==",
+        "token": "5ba6df20-da49-11e7-9abb-8ba8f084d8b6",
+        "admin": false,
+        "valid": false
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "users-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/index.js",
+  "contributors": [
+    "PeterCP",
+    "feranconajr"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node out/index.js"
+  },
+  "dependencies": {
+    "@types/restify": "^5.0.6",
+    "@types/sqlite3": "^3.1.1",
+    "@types/uuid": "^3.4.3",
+    "restify": "^6.3.4",
+    "sqlite3": "^3.1.13",
+    "typescript": "^2.6.1",
+    "uuid": "^3.1.0"
+  }
+}
